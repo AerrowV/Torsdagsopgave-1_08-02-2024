@@ -7,9 +7,9 @@ String age = "22 ";
 println(age);
 
 /*
-   2.c store whether or not you are happy right now, as
- a boolean (true for happy, false for sad).
- */
+2.c store whether or not you are happy right now, as
+a boolean (true for happy, false for sad).
+*/
 
 boolean happiness = true;
 
