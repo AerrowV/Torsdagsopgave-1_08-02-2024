@@ -1,7 +1,6 @@
 /*
  7.a create an integer called input and assign it a value of 20.
- Use a loop to print all integers between the input value
- and 0, with the following exceptions:
+( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) 
  */
 
 int input = -20;
